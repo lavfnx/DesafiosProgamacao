@@ -10,8 +10,8 @@ Nº | Lição | Breve Explicação | Status | Comprobatória |
 | :---: | :---: | :---: | :---: | :---: |
 | 01 | Introdução Phyton - Coddy | Introdução a comandos como print, input. Utilização da sintaxe correta em cada linha. | Aprovado | [Ver Imagem](./prints/print_01.png) |
 | 02 | Variáveis | Tipos de variáveis, como: float, int, etc. Declaração de variáveis, atribuição de valores a variáveis. | Aprovado | [Ver Imagem](./prints/print_02.png) |
-| 03 | Operadores - 1 | xx | Aprovado | [Ver Imagem](./prints/print_03.png) |
-| 04 | Operadores - 2 | xx | Aprovado | [Ver Imagem](./prints/print_04.png) |
+| 03 | Operadores - 1 | Operadores matemáticos, aprendendo a fazer contas de adição e substração utilizando Phyton. | Aprovado | [Ver Imagem](./prints/print_03.png) |
+| 04 | Operadores - 2 | Aprofundamento nos operadores matemáticos, aprendendo a fazer contas de multiplicação e divisão utilizando Phyton. |  | [Ver Imagem](./prints/print_04.png) |
 
 
 ---
